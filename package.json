@@ -2,7 +2,7 @@
   "name": "counter-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kvreacts.github.io/counter-app/"
+  "homepage": "https://kvreacts.github.io/counter-app/",
   "dependencies": {
     "bootstrap": "4.1.1",
     "react": "^16.8.6",
