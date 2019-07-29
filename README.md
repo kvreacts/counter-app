@@ -7,4 +7,6 @@ The counter app has the following functionalities:
 3) A reset option to reset all current counters back to zero value
 4) A navigation bar (Navbar) at the top which displays the number of non-zero counters
 
+Pre-requisites: Run the following commands on your terminal- **npm install react-scripts** or **yarn add react-scripts** based on your preferred node package manager.
+
 This app was build using React.js.
